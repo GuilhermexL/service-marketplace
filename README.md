@@ -26,9 +26,9 @@ Bem-vindo ao repositório do **Local Services Marketplace**, uma plataforma proj
 
 ## Autores
 
-- Guilherme Santos:
-- Mateus Tomaz:
-- Klebson Amarante:
+- Guilherme Santos: https://github.com/GuilhermexL
+- Mateus Tomaz: https://github.com/mateustomaz1
+- Klebson Amarante: https://github.com/KlebsonAmaranteS
 ---
 
 ## Como Executar o Projeto
